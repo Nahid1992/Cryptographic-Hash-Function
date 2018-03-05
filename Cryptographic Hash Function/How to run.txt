@@ -1,0 +1,22 @@
+Nahid Ul Islam (@01535165)
+
+how to run:
+-------------
+1. in command line, go to the directory where the MD5Hash.java is downloaded
+2. for compilation of the code, type: javac MD5Hash.java
+3. for execution of the code, type: java MD5Hash
+4. enter the inputs for number of bytes and byte values 
+
+
+Example Input/Output:
+----------------------
+Enter Number of Bytes to match: 
+ 2
+Enter the byte values to match for 2 bytes: 
+3 4
+TargetDigestPrefix in hexadecimal for 2 bytes: 
+0304
+
+Match in: 89456 runs
+Message in hexadecimal format: fd3d93b6c55d3b7b33ca96021dbf884c1b7950c9
+MD5 Digest in hexadecimal format: 0304c8eb25b67ea94de428400574812b
